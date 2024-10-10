@@ -49,8 +49,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Solataiwo-15)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/ahmad-taiwo/)
+- Frontend Mentor - [My Profile](https://www.frontendmentor.io/profile/Solataiwo-15)
+- LinkedIn - [My LinkedIn Page](https://www.linkedin.com/in/ahmad-taiwo/)
 
 
 
