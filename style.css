@@ -9,11 +9,10 @@
 body{
   background-color: #D5E1EF;
   display: flex;
-/*   width: 1440px;
-  height: 960px; */
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
 }
 
 .content{
@@ -30,7 +29,6 @@ body{
   width: 320px;
   height: 499px;
   box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
-  margin-top: 80px;
 }
 
 .QR-image{
